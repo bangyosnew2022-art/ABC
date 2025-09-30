@@ -12,3 +12,13 @@ kiri/kanan */
     border-radius: 15px; /* membuat sudut menjadi melengkung */
     box-shadow: 0 4px 8px rgba (0, 0, 0, 0, 1); /* Efek bayangan */
 }
+
+
+.kartu-profil img {
+    width: 150px;
+    border-radius: 50%; /* Trik untuk membuat gambar menjadi lingkaran
+}
+.kartu-profil {
+    /* ... (kode dari slide sebbelumnya) ... */
+    text-align: center; /* Menengahkan semua teks di dalam kartu */
+}
